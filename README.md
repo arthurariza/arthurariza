@@ -9,7 +9,7 @@
     -   Tecnologias Secundárias: Delphi, PHP e Java
 -   **Estagiário Full Stack**  em  **SEPLAG**  (_Setembro/2018 - Junho/2019_)
     -   **Tecnologia Primária**: Laravel
-    -   Tecnologias Secundárias: PostgreSQL, JavaScript, JQuery e Python
+    -   Tecnologias Secundárias: PostgreSQL, JavaScript, JQuery e HTML/CSS
 -   **Estagiário Delphi**  em  **UNIMED Maceió**  (_Maio/2018 - Setembro/2019_)
     -   **Tecnologia Primária**:  Delphi
     -   Tecnologias Secundárias: PL/SQL
