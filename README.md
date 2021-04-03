@@ -1,5 +1,5 @@
 # Social
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arthur-alves-ariza-88993a159/) <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Instagram" src="https://img.shields.io/badge/<a3vezes>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arthur-alves-ariza-88993a159/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tucaariza@gmail.com)<img alt="Instagram" src="https://img.shields.io/badge/<a3vezes>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
  # Stats
 [![Github Status](https://github-readme-stats.vercel.app/api?username=a3vezes&show_icons=true&title_color=333&icon_color=FFD900&text_color=9f9f9f&bg_color=f5f5f5)](https://github.com/a3vezes/a3vezes)
