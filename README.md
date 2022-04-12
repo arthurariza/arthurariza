@@ -1,5 +1,5 @@
 # Bio
-Full stack Engineer with 3+ years of professional experience, currently using Ruby On Rails.
+Full stack Engineer with 3+ years of professional experience, currently using Ruby On Rails and learning Elixir.
 
 Accustomed to work in a remote and agile environment with a CI/CD pipeline.
 
